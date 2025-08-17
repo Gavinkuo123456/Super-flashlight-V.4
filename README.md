@@ -1,5 +1,7 @@
 強力手電筒第四代
 ===
 ### 本手電筒搭載50W LED燈板，亮度高達10000流明，透過4顆鋰電池供電，續航力長，提供長時間高亮度照明。因高功率LED發熱量大，本手電筒還配有散熱風扇，保證長時間使用不過熱，保證安全。
-![IMG_3735](https://github.com/user-attachments/assets/14d36fe1-5fcf-4a75-b54f-429da5470e87)
----
+![IMG_3735](https://github.com/user-attachments/assets/8a8d5c58-2d3d-42d1-95b9-4c15d797bcea)
+#### 實際照片
+
+
