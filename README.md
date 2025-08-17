@@ -6,3 +6,5 @@
 <img width="1446" height="737" alt="main" src="https://github.com/user-attachments/assets/f9315699-0b1c-418a-9e5b-bae6dda8e55e" />
 
 #### 分解圖
+## 設計解說
+#### LED 燈板透過兩顆M3螺絲固定於散熱片上，散熱片再由AB膠固定於手電筒頭部3D列印件上，前方有預留配合的方槽，LED的電線由頭部上下貫通的孔穿至手電筒內部，頭部列印件下方再
