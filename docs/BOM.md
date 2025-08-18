@@ -82,14 +82,6 @@ This document contains the complete list of components required to build the Sup
 
 ---
 
-### Optional Components
-| Qty | Part Number | Description | Supplier | Unit Price | Notes |
-|-----|-------------|-------------|----------|------------|-------|
-|     |             | Carrying Case |          |            |       |
-|     |             | Lanyard |          |            |       |
-|     |             | Belt Clip |          |            |       |
-|     |             | Diffuser |          |            |       |
-
 ## ⚠️ Important Notes
 
 ### Procurement Notes
