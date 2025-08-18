@@ -14,23 +14,16 @@ This document contains the complete list of components required to build the Sup
 ### Power Management & Control
 | Qty | Part Number | Description | Package | Value/Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|---------|--------------|--------------|----------|------------|-------------|-------|
-|  1  |XL4015|adjustable buck converter|         |DC1.125~30V 0.01~5A|              |https://www.ruten.com.tw/item/show?21850207737158&_gl=1*q4saym*_gcl_au*NzU4NDAzOTkyLjE3NTUyMzQ4OTQ.*_ga*NzYzOTk1ODEwLjE2Njg3NTQ4Mzc.*_ga_2VP4WXLL56*czE3NTU0ODM3MTckbzYwNiRnMSR0MTc1NTQ4NDc4OSRqNTIkbDAkaDA.|80NTD|80 NTD|       |
-|     |             |             |         |              |              |          |            |             |       |
-|     |             |             |         |              |              |          |            |             |       |
+|  1  |429|adjustable buck converter|XL4015|DC1.125-30V 0.01-5A|              |https://www.ruten.com.tw/item/show?21850207737158&_gl=1*q4saym*_gcl_au*NzU4NDAzOTkyLjE3NTUyMzQ4OTQ.*_ga*NzYzOTk1ODEwLjE2Njg3NTQ4Mzc.*_ga_2VP4WXLL56*czE3NTU0ODM3MTckbzYwNiRnMSR0MTc1NTQ4NDc4OSRqNTIkbDAkaDA.|80NTD|80 NTD|       |
 
 ### LED & Optics
 | Qty | Part Number | Description | Package | Value/Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|---------|--------------|--------------|----------|------------|-------------|-------|
-|     |             |             |         |              |              |          |            |             |       |
-|     |             |             |         |              |              |          |            |             |       |
-|     |             |             |         |              |              |          |            |             |       |
-
+|1|664|High efficient LED||12V 50W||https://www.ruten.com.tw/item/show?22306976458215&_gl=1*1d2qn6c*_gcl_au*NzU4NDAzOTkyLjE3NTUyMzQ4OTQ.*_ga*NzYzOTk1ODEwLjE2Njg3NTQ4Mzc.*_ga_2VP4WXLL56*czE3NTU0ODM3MTckbzYwNiRnMSR0MTc1NTQ4NTAyMSRqNjAkbDAkaDA.|100NTD|100NTD||
 ### Connectors & Switches
 | Qty | Part Number | Description | Package | Value/Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|---------|--------------|--------------|----------|------------|-------------|-------|
-|     |             |             |         |              |              |          |            |             |       |
-|     |             |             |         |              |              |          |            |             |       |
-|     |             |             |         |              |              |          |            |             |       |
+|1|2002600000679|3P2T switch||6A 250VAC||https://jin-hua.com.tw/page/product/show.aspx?num=3822&kind=2978&lang=TW|10NTD|10NTD||
 
 ---
 
@@ -39,38 +32,24 @@ This document contains the complete list of components required to build the Sup
 ### Batteries
 | Qty | Part Number | Description | Capacity | Voltage | Chemistry | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|----------|---------|-----------|--------------|----------|------------|-------------|-------|
-|     |             |             |          |         |           |              |          |            |             |       |
-|     |             |             |          |         |           |              |          |            |             |       |
-
-### Charging Components
-| Qty | Part Number | Description | Package | Value/Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
-|-----|-------------|-------------|---------|--------------|--------------|----------|------------|-------------|-------|
-|     |             |             |         |              |              |          |            |             |       |
-|     |             |             |         |              |              |          |            |             |       |
+|4|NCR18650GA|Li-ion battary|3300mAh|3.7V|Li-ion|Panasonic|https://www.taiwaniot.com.tw/product/panasonic-ncr18650ga-3450mah/?srsltid=AfmBOor-kQiq9PcLm8EaJvtorUP9IVjG1jPnj5pyMPrx4XyiyRUw-LGX|200NTD|800NTD||
 
 ---
 
 ## 🏠 Mechanical Components
 
-### Housing & Structure
-| Qty | Part Number | Description | Material | Dimensions | Finish | Manufacturer | Supplier | Unit Price | Total Price | Notes |
-|-----|-------------|-------------|----------|------------|--------|--------------|----------|------------|-------------|-------|
-|     |             |             |          |            |        |              |          |            |             |       |
-|     |             |             |          |            |        |              |          |            |             |       |
-|     |             |             |          |            |        |              |          |            |             |       |
 
 ### Hardware & Fasteners
 | Qty | Part Number | Description | Size | Material | Thread | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|------|----------|--------|--------------|----------|------------|-------------|-------|
-|     |             |             |      |          |        |              |          |            |             |       |
+|2|             |M3x6 screw|      |          |        |              |          |            |             |just use any M3 screw you find|
 |     |             |             |      |          |        |              |          |            |             |       |
 |     |             |             |      |          |        |              |          |            |             |       |
 
 ### Thermal Management
 | Qty | Part Number | Description | Dimensions | Material | Thermal Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|------------|----------|----------------|--------------|----------|------------|-------------|-------|
-|     |             |             |            |          |                |              |          |            |             |       |
-|     |             |             |            |          |                |              |          |            |             |       |
+|1|587|Heat sink|37x37x24mm|Aluminum|||https://www.ruten.com.tw/item/show?22133612155674|22NTD|22NTD||
 
 ---
 
@@ -79,11 +58,11 @@ This document contains the complete list of components required to build the Sup
 ### Required Prints
 | Qty | File Name | Description | Material | Layer Height | Infill | Print Time | Notes |
 |-----|-----------|-------------|----------|--------------|--------|------------|-------|
-|     |           |             |          |              |        |            |       |
-|     |           |             |          |              |        |            |       |
-|     |           |             |          |              |        |            |       |
+|1|super flash light v4 head.stl|Top part of flashlight|PLA|0.2|15%||       |
+|1|super flash light v4 buttom.stl|Buttom part of flashlight|PLA|0.2|15%||       |
 
 **Recommended Print Settings:**
+- Printer: Prusa MK3s
 - Material: PETG or ABS (for heat resistance)
 - Layer Height: 0.2mm
 - Infill: 15%
@@ -93,13 +72,13 @@ This document contains the complete list of components required to build the Sup
 
 ## 📋 PCB & Assembly
 
-
 ### Assembly Materials
 | Qty | Description | Specification | Supplier | Notes |
 |-----|-------------|--------------|----------|-------|
-|     | Solder Paste | [Type/Brand] |          |       |
-|     | Flux | [Type/Brand] |          |       |
-|     | Thermal Paste | [Type/Brand] |          |       |
+|  Some   | Solder Paste |  |          |       |
+|  Some   | Flux |  |          |       |
+|   Some  | Thermal Paste |  |          |       |
+|Some|18 AWG wire||||
 
 ---
 
@@ -113,49 +92,11 @@ This document contains the complete list of components required to build the Sup
 |     |             | Belt Clip |          |            |       |
 |     |             | Diffuser |          |            |       |
 
----
-
-## 🛒 Supplier Information
-
-### Primary Suppliers
-| Supplier | Website | Shipping | Minimum Order | Notes |
-|----------|---------|----------|---------------|-------|
-| Digi-Key | digikey.com | Global | None | Electronics |
-| Mouser | mouser.com | Global | None | Electronics |
-| McMaster-Carr | mcmaster.com | US/Canada | $25 | Hardware |
-| Amazon | amazon.com | Global | Varies | General parts |
-
-### Specialty Suppliers
-| Supplier | Website | Products | Notes |
-|----------|---------|----------|-------|
-|          |         |          |       |
-|          |         |          |       |
-
----
-
-## 💡 Alternative Parts
-
-### LED Alternatives
-| Original Part | Alternative 1 | Alternative 2 | Notes |
-|---------------|---------------|---------------|-------|
-|               |               |               |       |
-|               |               |               |       |
-
-### Component Substitutions
-| Original Part | Alternative | Differences | Recommended |
-|---------------|-------------|-------------|-------------|
-|               |             |             |             |
-|               |             |             |             |
-
----
-
 ## ⚠️ Important Notes
 
 ### Procurement Notes
 - [ ] Verify LED binning and color temperature before ordering
 - [ ] Check battery authenticity when purchasing cells
-- [ ] Confirm PCB specifications with manufacturer
-- [ ] Order 10% extra passive components for assembly losses
 
 ### Quality Considerations
 - Purchase components from authorized distributors only
@@ -171,18 +112,6 @@ This document contains the complete list of components required to build the Sup
 
 ---
 
-## 📊 Cost Summary
-
-| Category | Estimated Cost | Percentage |
-|----------|----------------|------------|
-| Electronic Components | $[Amount] | [%] |
-| Mechanical Components | $[Amount] | [%] |
-| PCB Fabrication | $[Amount] | [%] |
-| Battery | $[Amount] | [%] |
-| Miscellaneous | $[Amount] | [%] |
-| **Total** | **$[Amount]** | **100%** |
-
----
 
 ## 🔄 Revision History
 
