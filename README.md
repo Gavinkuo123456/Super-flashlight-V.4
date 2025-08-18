@@ -46,7 +46,7 @@ This repository contains all the files needed to build your own Super Flashlight
 ### Prerequisites
 - Basic electronics knowledge
 - Soldering equipment and skills
-- Access to 3D printer (optional, for custom housing)
+- Access to 3D printer
 - Standard electronics tools
 
 ### Building Your Flashlight
@@ -54,7 +54,6 @@ This repository contains all the files needed to build your own Super Flashlight
 1. **Review the Documentation**
    ```
    Read through all documentation in the /docs folder
-   Review safety guidelines and precautions
    ```
 
 2. **Gather Components**
@@ -62,22 +61,15 @@ This repository contains all the files needed to build your own Super Flashlight
    Download the Bill of Materials (BOM.md)
    Source all required components
    Verify component specifications
+   Print all custom parts
    ```
 
 3. **Assembly Process**
    ```
    Follow the step-by-step assembly guide
    Test each stage of the build process
-   Perform final testing and calibration
+   Perform final testing
    ```
-
-4. **Programming** (if applicable)
-   ```
-   Flash the firmware to the microcontroller
-   Configure settings as desired
-   Test all operating modes
-   ```
-
 ---
 
 ## 📁 Repository Structure
@@ -89,7 +81,6 @@ Super-flashlight-V.4/
 │   ├── BOM.md              # Bill of materials
 │   └── troubleshooting.md  # Common issues and solutions
 ├── schematics/             # Circuit diagrams and schematics
-├── pcb/                    # PCB design files
 ├── 3d-models/              # STL files for 3D printed parts
 ├── firmware/               # Microcontroller code
 ├── images/                 # Photos and diagrams
@@ -99,22 +90,10 @@ Super-flashlight-V.4/
 
 ---
 
-## 🔧 Customization Options
-
-The Super Flashlight V.4 is designed to be easily customizable:
-
-- **LED Selection**: Compatible with various high-power LEDs
-- **Battery Configuration**: Supports different battery types and arrangements
-- **Housing Options**: 3D printable or machined aluminum housing
-- **Mode Programming**: Customizable brightness levels and strobe patterns
-- **Thermal Management**: Adjustable temperature protection settings
-
----
-
 ## ⚠️ Safety Information
 
 **Important Safety Guidelines:**
-- Always wear safety glasses when working with high-power LEDs
+- Don't look into high-power LEDs when it's on
 - Ensure proper heat sinking to prevent LED damage
 - Use appropriate current limiting to protect components
 - Test all connections before applying full power
@@ -126,34 +105,23 @@ The Super Flashlight V.4 is designed to be easily customizable:
 
 We welcome contributions to the Super Flashlight V.4 project! Here's how you can help:
 
-- **Bug Reports**: Found an issue? Please open an issue with detailed information
 - **Feature Requests**: Have an idea for improvement? Let us know!
 - **Documentation**: Help improve guides and documentation
 - **Design Improvements**: Submit pull requests with enhancements
 - **Testing**: Share your build results and performance data
-
-See our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ---
 
 ## 📊 Performance Data
 
 ### Beam Pattern
-*[Add beam pattern diagrams or photos]*
+*WIP*
 
 ### Runtime Chart
-*[Add battery runtime performance charts]*
+*WIP*
 
 ### Thermal Performance
-*[Add temperature vs. time graphs]*
-
----
-
-## 🔗 Related Projects
-
-- **Super Flashlight V.3** - Previous version with design evolution notes
-- **LED Driver Board** - Standalone driver for other projects
-- **Battery Pack Design** - Custom battery solutions
+*WIP*
 
 ---
 
@@ -171,17 +139,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 - **Discussions**: Join our GitHub Discussions for general questions
-- **Wiki**: Check the project wiki for additional documentation
-- **Email**: [Insert contact email if desired]
+- **Email**: gavinkuo123456@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
 - Thanks to the open source hardware community
-- Special recognition to contributors and testers
-- LED manufacturers for technical support and samples
-- Beta testers who provided valuable feedback
 
 ---
 
@@ -189,11 +153,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 4.0 | [Date] | Major redesign with improved efficiency |
-| 3.1 | [Date] | Bug fixes and minor improvements |
-| 3.0 | [Date] | Added programmable modes |
-| 2.0 | [Date] | Upgraded LED and driver circuit |
-| 1.0 | [Date] | Initial release |
+| 4.0 |  | Major redesign with improved efficiency |
+| 3.0 | | Tube shape outer case |
+| 2.0 |  | Upgraded to Lipo battery |
+| 1.0 | 2019 | Initial release |
 
 ---
 
