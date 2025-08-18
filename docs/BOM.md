@@ -5,7 +5,7 @@ This document contains the complete list of components required to build the Sup
 
 **Last Updated:** 2025/8/18 
 **BOM Version:** 4.0  
-**Total Estimated Cost:** $[Amount]
+**Total Estimated Cost:** ~1200NTD
 
 ---
 
