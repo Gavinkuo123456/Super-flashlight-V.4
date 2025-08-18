@@ -23,7 +23,7 @@ This document contains the complete list of components required to build the Sup
 ### Connectors & Switches
 | Qty | Part Number | Description | Package | Value/Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|---------|--------------|--------------|----------|------------|-------------|-------|
-|1|2002600000679|3P2T switch||6A 250VAC||https://jin-hua.com.tw/page/product/show.aspx?num=3822&kind=2978&lang=TW|10NTD|10NTD||
+|1|2002600000679|3P2T switch||6A 250VAC||https://jin-hua.com.tw/page/product/show.aspx?num=3822&kind=2978&lang=TW|10NTD|10NTD|Any similiar looking switch will do|
 
 ---
 
@@ -32,7 +32,7 @@ This document contains the complete list of components required to build the Sup
 ### Batteries
 | Qty | Part Number | Description | Capacity | Voltage | Chemistry | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|----------|---------|-----------|--------------|----------|------------|-------------|-------|
-|4|NCR18650GA|Li-ion battary|3300mAh|3.7V|Li-ion|Panasonic|https://www.taiwaniot.com.tw/product/panasonic-ncr18650ga-3450mah/?srsltid=AfmBOor-kQiq9PcLm8EaJvtorUP9IVjG1jPnj5pyMPrx4XyiyRUw-LGX|200NTD|800NTD||
+|4|NCR18650GA|Li-ion battary|3300mAh|3.7V|Li-ion|Panasonic|https://www.taiwaniot.com.tw/product/panasonic-ncr18650ga-3450mah/?srsltid=AfmBOor-kQiq9PcLm8EaJvtorUP9IVjG1jPnj5pyMPrx4XyiyRUw-LGX|200NTD|800NTD|Any 18650 will do|
 
 ---
 
