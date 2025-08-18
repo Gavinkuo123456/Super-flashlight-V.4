@@ -79,6 +79,7 @@ This document contains the complete list of components required to build the Sup
 |  Some   | Flux |  |          |       |
 |   Some  | Thermal Paste |  |          |       |
 |Some|18 AWG wire||||
+|Some|Hot glue or adhesive||||
 
 ---
 
