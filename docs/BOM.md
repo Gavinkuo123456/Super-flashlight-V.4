@@ -82,8 +82,6 @@ This document contains the complete list of components required to build the Sup
 
 ---
 
-## 📦 Packaging & Accessories
-
 ### Optional Components
 | Qty | Part Number | Description | Supplier | Unit Price | Notes |
 |-----|-------------|-------------|----------|------------|-------|
@@ -118,7 +116,6 @@ This document contains the complete list of components required to build the Sup
 | Version | Date | Changes | Updated By |
 |---------|------|---------|------------|
 | 4.0 | [Date] | Initial BOM for V.4 | [Name] |
-|         |        |                     |        |
 
 ---
 
