@@ -47,9 +47,10 @@ This document contains the complete list of components required to build the Sup
 |     |             |             |      |          |        |              |          |            |             |       |
 
 ### Thermal Management
-| Qty | Part Number | Description | Dimensions | Material | Thermal Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
+| Qty | Part Number | Description | Dimensions | Material | Rating | Manufacturer | Supplier | Unit Price | Total Price | Notes |
 |-----|-------------|-------------|------------|----------|----------------|--------------|----------|------------|-------------|-------|
 |1|587|Heat sink|37x37x24mm|Aluminum|||https://www.ruten.com.tw/item/show?22133612155674|22NTD|22NTD||
+|1||Cooling fan|40x40x20mm|plastic|12V|||||Any 12V 40mm fan will do|
 
 ---
 
