@@ -11,6 +11,7 @@
 ## 🔦 Overview
 
 The Super Flashlight V.4 is a high-performance, handheld LED flashlight designed for maximum brightness, durability, and efficiency. This open-source hardware project provides everything you need to build your own professional-grade flashlight with customizable features.
+![real device photo](/images/IMG_3735.jpg)
 
 ### Key Features
 - **Ultra-High Brightness**: Premium LED technology for maximum illumination
@@ -73,12 +74,9 @@ Super-flashlight-V.4/
 ├── docs/                    # Documentation and guides
 │   ├── assembly-guide.md    # Step-by-step build instructions
 │   ├── BOM.md              # Bill of materials
-│   └── troubleshooting.md  # Common issues and solutions
 ├── schematics/             # Circuit diagrams and schematics
 ├── 3d-models/              # STL files for 3D printed parts
-├── firmware/               # Microcontroller code
 ├── images/                 # Photos and diagrams
-├── datasheets/            # Component datasheets
 └── LICENSE                # Project license
 ```
 
