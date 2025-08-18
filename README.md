@@ -52,24 +52,18 @@ This repository contains all the files needed to build your own Super Flashlight
 ### Building Your Flashlight
 
 1. **Review the Documentation**
-   ```
-   Read through all documentation in the /docs folder
-   ```
+   - Read through all documentation in the /docs folder
 
 2. **Gather Components**
-   ```
-   Download the Bill of Materials (BOM.md)
-   Source all required components
-   Verify component specifications
-   Print all custom parts
-   ```
+   - Download the Bill of Materials (BOM.md)
+   - Source all required components
+   - Verify component specifications
+   - Print all custom parts
 
-3. **Assembly Process**
-   ```
-   Follow the step-by-step assembly guide
-   Test each stage of the build process
-   Perform final testing
-   ```
+4. **Assembly Process**
+   - Follow the step-by-step assembly guide
+   - Test each stage of the build process
+   - Perform final testing
 ---
 
 ## 📁 Repository Structure
@@ -153,9 +147,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 4.0 |  | Major redesign with improved efficiency |
-| 3.0 | | Tube shape outer case |
-| 2.0 |  | Upgraded to Lipo battery |
+| 4.0 | 2025 | Major redesign with improved efficiency |
+| 3.0 | 2022 | Tube shape outer case |
+| 2.0 | 2020 | Upgraded to Lipo battery |
 | 1.0 | 2019 | Initial release |
 
 ---
