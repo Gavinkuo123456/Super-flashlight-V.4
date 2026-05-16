@@ -98,7 +98,7 @@ Super-flashlight-V.4/
 
 We welcome contributions to the Super Flashlight V.4 project! Here's how you can help:
 
-- **Feature Requests**: Have an idea for improvement? Let us know!
+- **Feature Requests**: Have an idea for improvement? Let me know!
 - **Documentation**: Help improve guides and documentation
 - **Design Improvements**: Submit pull requests with enhancements
 - **Testing**: Share your build results and performance data
