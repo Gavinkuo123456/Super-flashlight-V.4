@@ -105,40 +105,9 @@ We welcome contributions to the Super Flashlight V.4 project! Here's how you can
 
 ---
 
-## 📊 Performance Data
-
-### Beam Pattern
-*WIP*
-
-### Runtime Chart
-*WIP*
-
-### Thermal Performance
-*WIP*
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Third-Party Components
-- Component datasheets and specifications remain property of their respective manufacturers
-- Open source libraries used are subject to their original licenses
-
----
-
-## 📞 Support & Contact
-
-- **Issues**: Use GitHub Issues for bug reports and feature requests
-- **Discussions**: Join our GitHub Discussions for general questions
-- **Email**: gavinkuo123456@gmail.com
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to the open source hardware community
 
 ---
 
@@ -154,5 +123,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If you find this project useful, please consider starring the repository!**
-
-*Built with ❤️ by the open source community*
