@@ -13,6 +13,7 @@
 The Super Flashlight V.4 is a high-performance, handheld LED flashlight designed for maximum brightness, durability, and efficiency. This open-source hardware project provides everything you need to build your own professional-grade flashlight with customizable features.
 
 ![real device photo](/images/IMG_3735.jpg)
+![real working photo](/images/IMG_8057.jpg)
 
 ### Key Features
 - **Ultra-High Brightness**: Premium LED technology for maximum illumination
